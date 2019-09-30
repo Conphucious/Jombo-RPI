@@ -1,0 +1,13 @@
+INDEX 0:	DEFAULT |EMOTES|
+
+INDEX1: CAMERA - two options. Take picture or view.
+
+INDEX 1:	NAME GUESSER
+
+INDEX 2:	FILE SERVER OPEN / CLOSE
+
+INDEX 3:	RANDOM QUOTE OF THE DAY
+
+INDEX 4:	
+
+Add feet
