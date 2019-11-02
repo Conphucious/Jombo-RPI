@@ -1,8 +1,6 @@
-# GoogleMapsJS
+# Jombo RPI {WIP}
 
-An exercise project for my independent study course. Uses JS, JQuery, and GCP Maps/Geocoding API. 
-
-I created a parser to scrap data off of http://city-data.com to allow the user to click on vicinities on the map and get instantenous information about each such as population, gender distribution, and median age.
+RPI 3B Project with a wood prototype case, 7 GPIO momentary buttons, and a web camera.
 
 ## Screenshot
 ![alt jombo](http://ngu-software.com/projects/jombo/00.png)
